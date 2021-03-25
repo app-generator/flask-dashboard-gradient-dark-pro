@@ -18,7 +18,7 @@
 > Links
 
 - [Flask Gradient Dark PRO](https://appseed.us/admin-dashboards/flask-dashboard-gradient-dark-pro) - product page
-- [Flask Gradient Dark PRO](https://flask-dashboard-gradient-dark-pro.appseed.us/) - LIVE Deployment
+- [Flask Gradient Dark PRO](https://flask-gradient-dark-pro.appseed-srv1.com) - LIVE Deployment
 
 <br />
 
